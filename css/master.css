@@ -1,0 +1,16 @@
+#listArticles>p:hover {
+  cursor: pointer;
+}
+
+.libel {
+  font-weight: bold;
+  margin: 0px !important;
+}
+
+#comments>div {
+  margin: 50px;
+}
+
+#albums>p:hover {
+  cursor: pointer;
+}
